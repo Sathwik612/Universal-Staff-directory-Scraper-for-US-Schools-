@@ -259,3 +259,11 @@ allo.to_csv("<state>_ALL_leads.csv", index=False)
 This assembles real people's contact data from public directories. Before
 outreach, confirm each site's Terms/robots.txt and applicable law (CAN-SPAM,
 state privacy rules). Not legal advice.
+
+---
+
+## Author
+
+**Sathwik N H**
+- Email: sathwiknh@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sathwiknh1/
